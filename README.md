@@ -1,2 +1,3 @@
 # the-rps-game
-Asimple rock paper scissors game with python
+
+A simple rock paper scissors game with python
